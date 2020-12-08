@@ -8,7 +8,7 @@ We use photoshop for annotation.The GT image is shown in Fig1.
 
 
  ## Access
- You can download HBMMCD through [Download_Link](https://github.com/SadaharuZL/HuaYun-BJUT-MIP-Multilabel-Cloud-Dataset/blob/main/Download_Link).
+ You can download HBMMCD through [Download_Link](https://github.com/SadaharuZL/-HuaYun-BJUT-MIP-CloudGroudTruth-Dataset/blob/main/Download_Link).
 
  ## Others
  More details about the HBMMCD dataset can be found in the following paper and please cite the this paper if you use the HBMMCD dataset.(Not yet published)
