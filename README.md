@@ -1,4 +1,4 @@
-# -HuaYun-BJUT-MIP-CloudGroudTruth-Dataset
+# HuaYun-BJUT-MIP-CloudGroudTruth-Dataset
 ## A new ground-based cloud Segmentation GroundTruth Image dataset.
 
 The pictures in HBMGT (HuaYun-BJUT-MIP-CloudGroudTruth-Dataset) are from the proprietary equipment of [HUAYUN SOUDING company](http://www.hysdqx.com/).
@@ -7,7 +7,7 @@ We used Photoshop to annotate 11,000 foundation cloud pictures.The GT image is s
 
 ![gt](https://github.com/SadaharuZL/-HuaYun-BJUT-MIP-CloudGroudTruth-Dataset/blob/main/gt.JPG)
 
-Fig.1 GT
+Fig.1 A cloud image and GT image example
 
 
 The comparison with other data sets is shown in Table 1.
